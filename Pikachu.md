@@ -23,3 +23,5 @@ print 'But Pichu is absolutely useless in the original Pokemon game'
 ```
 
 *Ash, you are 10 years old now, its time for you to leave your single mother and travel alone across the entire country filled with supernastural animals with this electric-emitting rat creature!* - Doctor Oak
+
+I personally prefer Pichu
